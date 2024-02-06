@@ -1,0 +1,6 @@
+{
+  "trailingComma": "es2022",
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true
+}
